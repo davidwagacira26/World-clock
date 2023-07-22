@@ -10,7 +10,6 @@ The World Clock is a simple web application that displays the current time for d
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -49,8 +48,5 @@ If you wish to contribute to this project, you can follow these steps:
 4. Push the changes to your fork.
 5. Create a pull request on the original repository, explaining your changes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the terms of the license.
 
 Feel free to reach out if you have any questions or suggestions related to this project. Happy coding!
