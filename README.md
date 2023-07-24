@@ -50,3 +50,6 @@ If you wish to contribute to this project, you can follow these steps:
 
 
 Feel free to reach out if you have any questions or suggestions related to this project. Happy coding!
+
+![202384485](https://github.com/davidwagacira26/World-clock/assets/140235000/8007d7c4-eb66-42b2-93af-dc42cc74047a)
+
